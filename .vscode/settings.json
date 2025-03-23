@@ -1,0 +1,19 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "C:\\Users\\86159\\esp\\v5.3\\esp-idf",
+    "idf.toolsPathWin": "C:\\Users\\86159\\.espressif",
+    "idf.flashType": "UART",
+    "idf.portWin": "COM3",
+    "files.associations": {
+        "random": "c",
+        "esp_system.h": "c",
+        "sockets.h": "c",
+        "netdb.h": "c",
+        "stdint.h": "c",
+        "stdio.h": "c",
+        "protocol_examples_common.h": "c",
+        "freertos.h": "c",
+        "dns.h": "c",
+        "cstdint": "c"
+    }
+}
